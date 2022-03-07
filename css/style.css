@@ -345,6 +345,10 @@ img {
   padding-top: 0.2em;
 }
 
+.footer a {
+  color: var(--light-gray);
+}
+
 .footer__socials {
   display: -webkit-box;
   display: -ms-flexbox;
